@@ -28,8 +28,7 @@ CUSTOM_VOCABULARY = {
     'GitHub': ['GitHub', 'git hub', 'github'],
     'JSON': ['JSON', 'jason', 'jay son'], 
     'npm': ['npm', 'N pee m.', 'n p m'],
-    'pip': ['pip', 'pyp.'],
-    'Jannis':['Yanis', 'Janice'],
+    'pip': ['pip', 'pyp.'],    
     'LiveKit':['LiveKit', 'live kit', 'LifeKit', 'livekit', 'life kit', 'life Git', 'live Git'],
   
     

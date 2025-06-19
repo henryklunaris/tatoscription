@@ -19,7 +19,7 @@ A lightweight Python-based voice dictation tool that uses OpenAI's transcription
 
 ### Prerequisites
 
-- Python 3.8+ (tested with Python 3.12.3)
+- Python 3.9+ (this works with Python 3.12.3)
 - Windows 11 (primary support)
 - OpenAI API key
 - Working microphone
@@ -32,6 +32,7 @@ A lightweight Python-based voice dictation tool that uses OpenAI's transcription
    ```bash
    pip install -r requirements.txt
    ```
+   Note: you may want to run this in a virtual envrioment to not impact any of your current dependencies
 
 3. **Create environment file:**
    Create a `.env` file in the project root with your settings:
@@ -59,7 +60,7 @@ You can modify these settings in `config.py`:
 
 The tool comes pre-loaded with technical terms and can auto-correct common mistakes:
 
-**Pre-configured terms**: `n8n`, `Retell`, `Vapi`, `OpenAI`, `Supabase`, `Cursor`, `GitHub`, `JavaScript`, `TypeScript`, `React`, etc.
+**Pre-configured terms**: `n8n`, `Retell`, `Vapi`, `OpenAI`, `Supabase`, `Cursor`, `GitHub`, `JSON`, `npm`, `LiveKit`, etc.
 
 **Adding your own terms**:
 1. Run the helper: `python add_vocabulary.py`
