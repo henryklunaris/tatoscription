@@ -18,3 +18,9 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+
+venv/
+env/
+ENV/
+.venv/
+.env/
