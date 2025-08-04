@@ -1,3 +1,6 @@
+source venv/bin/activate && python start.py
+
+
 # 🎙️ Local Voice Dictation Tools
 
 # Tatoscription 
