@@ -24,3 +24,14 @@ env/
 ENV/
 .venv/
 .env/
+
+temp/
+failed/
+recordings/
+
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+*.aac
